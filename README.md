@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Hi, I'm Abhinav Tiwari.<br><br>🎓 MCA Student | ☕ Java Full Stack Developer<br><br>💻 Passionate about building scalable web applications using Java and modern web technologies.
+Hi, I'm Abhinav Tiwari.<br><br>🎓 MCA Student | ☕ Java Full Stack Developer<br><br>💻 Passionate about building scalable web applications using Java and modern web technologies.
 
 
 ## 🌐 Socials:
