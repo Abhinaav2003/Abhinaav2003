@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm Abhinav Tiwari.<br><br>🎓 MCA Student | ☕ Java Full Stack Developer<br><br>💻 Passionate about building scalable web applications using Java and modern web technologies.<br><br>### 🚀 Currently Learning<br>- Spring Boot<br>- Microservices<br>- SQL & Database Design<br>- Data Structures & Algorithms<br><br>### 💼 Interests<br>- Backend Development<br>- Open Source<br>- Cloud Computing<br>- Artificial Intelligence<br><br>### 🎯 Goal<br>To become a skilled Java Full Stack Developer and contribute to impactful software projects.
+<br><br>Hi, I'm Abhinav Tiwari.<br><br>🎓 MCA Student | ☕ Java Full Stack Developer<br><br>💻 Passionate about building scalable web applications using Java and modern web technologies.
 
 
 ## 🌐 Socials:
