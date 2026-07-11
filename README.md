@@ -1,6 +1,11 @@
 # 💫 About Me:
-Hi, I'm Abhinav Tiwari.<br><br>🎓 MCA Student | ☕ Java Full Stack Developer<br><br>💻 Passionate about building scalable web applications using Java and modern web technologies.
+👋 Hi, I'm Abhinav Tiwari
 
+🎓 MCA Student | 💻 Aspiring Full Stack Java Developer | 🚀 Tech Enthusiast
+
+I am passionate about building scalable web applications and continuously improving my software development skills. I enjoy working with Java, Spring Boot, SQL, React, and modern web technologies while exploring AI and cloud computing.
+
+<br>
 
 ## 🌐 Socials:
 <p align="left">
