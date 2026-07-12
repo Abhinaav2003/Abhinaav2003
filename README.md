@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Abhinav Tiwari
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Abhinav+Tiwari;AI+%26+Machine+Learning+Engineer;Java+Full+Stack+Developer" alt="Typing SVG" />
 
 * 🎓 MCA Student
 * 💻 Aspiring Full Stack Java Developer
@@ -11,13 +13,37 @@
 
 <br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinav-tiwari-b045b72b5/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bviubpmkfqpen6ienqxg1ca%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-tiwari-b045b72b5/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bviubpmkfqpen6ienqxg1ca%3d%3d" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20592277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20592277" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript&theme=dark"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark"/>
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql&theme=dark"/>
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman&theme=dark"/>
+</p>
+
+---
 
 <!-- Snake Game Repo View -->
 
