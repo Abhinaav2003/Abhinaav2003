@@ -36,7 +36,7 @@
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark"/>
 </p>
 
 ### Cloud, DevOps & Tooling
