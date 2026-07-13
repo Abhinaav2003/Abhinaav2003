@@ -65,10 +65,10 @@
 <br>
 
 # 📊 GitHub Stats:
-<img width="78%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinaav2003&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" /><br/>
-![](https://github-readme-stats.shion.dev/api?username=Abhinaav2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Abhinaav2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhinaav2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Abhinaav2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Abhinaav2003&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhinaav2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
