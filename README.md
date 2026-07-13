@@ -50,6 +50,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman&theme=dark"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
 </p>
 
 ---
