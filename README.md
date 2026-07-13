@@ -55,6 +55,7 @@
 ---
 
 <!-- Snake Game Repo View -->
+# 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -63,6 +64,7 @@
 <br>
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.shion.dev/api?username=Abhinaav2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Abhinaav2003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhinaav2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
