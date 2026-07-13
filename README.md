@@ -67,7 +67,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Abhinaav2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=Abhinaav2003&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhinaav2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 ### ✍️ Random Dev Quote
