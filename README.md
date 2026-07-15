@@ -50,7 +50,8 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman&theme=dark"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ IDEA"  width="45" height="45"/>
 </p>
 
 ---
