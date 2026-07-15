@@ -57,12 +57,10 @@
 
 <!-- Snake Game Repo View -->
 # 🐍 Contribution Snake
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 </div>
-
-<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Abhinaav2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
