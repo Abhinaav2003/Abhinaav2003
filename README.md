@@ -27,6 +27,8 @@
 <a href="https://www.linkedin.com/in/abhinav-tiwari-b045b72b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhinavtiwari" height="45" width="45" /></a>
 <a href="https://stackoverflow.com/users/20592277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20592277" height="40" width="40" /></a>
 
+---
+
 # 🛠️ Tech Stack:
 ### Languages
 
@@ -91,17 +93,21 @@ A **Java-based Library Management System** that manages books, members, and book
   ![snake gif](https://github.com/Abhinaav2003/Abhinaav2003/blob/output/github-snake-dark.svg)
 </div>
 
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Abhinaav2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=Abhinaav2003&theme=tokyonight&hide_border=false)
 
+---
 
 # 📈 Coding Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinaav2003&theme=react-dark&hide_border=true&area=true"/>
 </p>
+
+---
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
