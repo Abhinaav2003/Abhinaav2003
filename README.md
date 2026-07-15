@@ -73,16 +73,14 @@
 
 # 🧩 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/Abhinaav2003/Library-Management-System">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*xj4x8xz1hgoRLcEsk74JpA.png" alt="Library Management System" width="400"/>
-  </a>
-</p>
+## 📚 Library Management System
 
-### Languages Used:
-<p>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" width="50" height="50" />
-</p>
+A **Java-based Library Management System** that manages books, members, and book transactions using **Object-Oriented Programming (OOP)** principles with a simple and modular design.
+
+**🛠️ Tech Stack:** Java • OOP • Collections Framework • IntelliJ IDEA • Git & GitHub
+
+🔗 **Project:** https://github.com/Abhinaav2003/library-management-system
+
 
 ---
 
