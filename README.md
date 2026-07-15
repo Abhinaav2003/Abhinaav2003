@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
 
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=84&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=1400&height=150&lines=Abhinav+Tiwari;Java+Full+Stack+Developer"
@@ -95,11 +96,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinaav2003&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
+
 ---
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinaav2003&label=Profile%20views&color=0e75b6&style=flat" alt="abhinaav2003" /> </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
