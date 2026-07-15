@@ -71,6 +71,16 @@
 
 ---
 
+# 🧩 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/Abhinaav2003/Library-Management-System">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*xj4x8xz1hgoRLcEsk74JpA.png" alt="Library Management System" width="400"/>
+  </a>
+</p>
+
+---
+
 <!-- Snake Game Repo View -->
 # 🐍 Contribution Snake
 <div align="center">
