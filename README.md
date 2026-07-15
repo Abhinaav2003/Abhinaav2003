@@ -24,8 +24,8 @@
 
 # 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinav-tiwari-b045b72b5/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bviubpmkfqpen6ienqxg1ca%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-tiwari-b045b72b5/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bviubpmkfqpen6ienqxg1ca%3d%3d" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20592277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20592277" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinav-tiwari-b045b72b5/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bviubpmkfqpen6ienqxg1ca%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-tiwari-b045b72b5/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bviubpmkfqpen6ienqxg1ca%3d%3d" height="45" width="45" /></a>
+<a href="https://stackoverflow.com/users/20592277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20592277" height="45" width="45" /></a>
 
 # 💻 Tech Stack:
 ### Languages
