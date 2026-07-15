@@ -62,10 +62,10 @@
   ![snake gif](https://github.com/Abhinaav2003/Abhinaav2003/blob/output/github-snake-dark.svg)
 </div>
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Abhinaav2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=Abhinaav2003&theme=tokyonight&hide_border=false)<br/>
-
 
 
 # ✍️ Random Dev Quote
@@ -73,4 +73,3 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
