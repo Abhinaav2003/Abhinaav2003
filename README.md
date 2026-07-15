@@ -24,7 +24,7 @@
 
 # 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/abhinav-tiwari-b045b72b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="45" width="45" /></a>
+<a href="https://www.linkedin.com/in/abhinav-tiwari-b045b72b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhinavtiwari" height="45" width="45" /></a>
 <a href="https://stackoverflow.com/users/20592277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20592277" height="40" width="40" /></a>
 
 # 💻 Tech Stack:
