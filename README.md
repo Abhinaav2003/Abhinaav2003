@@ -103,7 +103,7 @@ A **Java-based Library Management System** that manages books, members, and book
 # 📈 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinaav2003&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinaav2003&theme=tokyonight&hide_border=true&area=true"/>
 </p>
 
 ---
