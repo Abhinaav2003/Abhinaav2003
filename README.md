@@ -19,7 +19,6 @@
 * 🎯 Open to internships and collaborative projects
 * 📫 How to reach me **abhinavtiwari.tech@gmail.com**
 
-
 <br>
 
 # 🌐 Socials:
@@ -111,6 +110,7 @@ A **Java-based Library Management System** that manages books, members, and book
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
