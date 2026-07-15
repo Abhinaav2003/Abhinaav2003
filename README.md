@@ -72,18 +72,7 @@
 
 ---
 
-# 🧩 Featured Projects
 
-## 📚 Library Management System
-
-A **Java-based Library Management System** that manages books, members, and book transactions using **Object-Oriented Programming (OOP)** principles with a simple and modular design.
-
-**🛠️ Tech Stack:** Java • OOP • Collections Framework • IntelliJ IDEA • Git & GitHub
-
-🔗 **Project:** https://github.com/Abhinaav2003/library-management-system
-
-
----
 
 <!-- Snake Game Repo View -->
 # 🐍 Contribution Snake
