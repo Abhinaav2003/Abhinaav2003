@@ -84,6 +84,12 @@
 ![](https://streak-stats.demolab.com/?user=Abhinaav2003&theme=tokyonight&hide_border=false)
 
 
+# 📈 Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinaav2003&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
