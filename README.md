@@ -79,6 +79,11 @@
   </a>
 </p>
 
+### Languages Used:
+<p>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" width="50" height="50" />
+</p>
+
 ---
 
 <!-- Snake Game Repo View -->
