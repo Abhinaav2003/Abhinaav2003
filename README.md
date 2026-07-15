@@ -1,6 +1,7 @@
 # 👋 About Me:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
+<a id="top"></a>
 
 
 <p align="center">
@@ -117,3 +118,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinaav2003&label=Profile%20views&color=0e75b6&style=flat" alt="abhinaav2003" /> </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-6C63FF?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</p>
