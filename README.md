@@ -96,8 +96,10 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Abhinaav2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=Abhinaav2003&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=Abhinaav2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Abhinaav2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
