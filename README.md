@@ -80,7 +80,7 @@
 # 🐍 Contribution Snake
 <div align="center">
     
-  ![snake gif](https://github.com/Abhinaav2003/Abhinaav2003/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Abhinaav2003/Abhinaav2003/blob/output/github-snake.svg)
 </div>
 
 ---
