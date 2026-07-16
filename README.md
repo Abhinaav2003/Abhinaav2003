@@ -115,6 +115,16 @@
 
 ---
 
+<div align="center">
+
+### 🐞💻 Every bug is an opportunity to become a better developer.
+
+*Every error teaches a lesson. Every fix builds experience. Keep debugging, keep learning, and keep growing.*
+
+</div>
+
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinaav2003&label=Profile%20views&color=0e75b6&style=flat" alt="abhinaav2003" /> </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
