@@ -35,7 +35,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" />
 </p>
@@ -52,21 +52,21 @@
 <p>
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" alt="Apache Maven" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" alt="Hibernate" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=maven" alt="Apache Maven" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="50" height="50" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ IDEA" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="Eclipse IDE" width="50" height="50" />
 </p>
 
