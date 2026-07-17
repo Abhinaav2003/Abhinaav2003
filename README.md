@@ -1,17 +1,9 @@
 <a id="top"></a>
 
 # 👋 About Me:
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ABHINAV%20TIWARI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=84&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=1400&height=150&lines=Abhinav+Tiwari;Java+Full+Stack+Developer"
-    alt="Typing SVG"
-  />
-</p>
-
-<br>
+<br/>
 
 * 🎓 MCA Student
 * 💻 Aspiring Full Stack Java Developer
