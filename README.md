@@ -1,10 +1,10 @@
 <a id="top"></a>
 
-# 👋 About Me:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ABHINAV%20TIWARI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
+# 👋 About Me:
 * 🎓 MCA Student
 * 💻 Aspiring Full Stack Java Developer
 * 🌱 Learning Java, Spring Boot, React, SQL & DSA
