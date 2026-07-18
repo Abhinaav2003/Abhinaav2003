@@ -46,7 +46,6 @@
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=maven" alt="Apache Maven" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="50" height="50" />
 </p>
