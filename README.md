@@ -11,7 +11,6 @@
 * 🚀 Passionate about Web Development and AI
 * 📚 Always learning new technologies
 * 🎯 Open to internships and collaborative projects
-* 📫 How to reach me **abhinavtiwari.tech@gmail.com**
 
 <br>
 
