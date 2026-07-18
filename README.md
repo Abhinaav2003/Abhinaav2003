@@ -64,7 +64,21 @@
 
 ---
 
+# My Lifecycle
+<img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" width="250" height="250" align="right"/>
 
+```kotlin
+fun main() {
+    while (Alive) {
+        code()
+		fixBugs()
+		loveKotlin()
+        sleep()
+        repeat()
+    }
+}
+
+```
 
 <!-- Snake Game Repo View -->
 # 🐍 Contribution Snake
