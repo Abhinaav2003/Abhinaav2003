@@ -66,14 +66,17 @@
 
 # 🔄 My Lifecycle
 
-```Java
-int main() {
-    while (Alive) {
-        code()
-		fixBugs()
-		loveJava()
-        sleep()
-        repeat()
+```java
+public class Life {
+    public static void main(String[] args) {
+
+        while (true) {
+            code();
+            fixBugs();
+            loveJava();
+            sleep();
+            repeat();
+        }
     }
 }
 
