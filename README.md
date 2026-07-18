@@ -130,7 +130,7 @@ public class Life {
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinaav2003&label=Profile%20Views&color=000000&style=flat-square" alt="0xswezy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinaav2003&style=for-the-badge" /> </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer" width="100%"/>
 
