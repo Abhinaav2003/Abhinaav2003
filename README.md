@@ -67,7 +67,7 @@
 # My Lifecycle
 
 ```Java
-fun main() {
+int main() {
     while (Alive) {
         code()
 		fixBugs()
