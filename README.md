@@ -137,6 +137,6 @@ public class Life {
 
 <p align="center">
   <a href="#top">
-    <img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-6C63FF?style=for-the-badge" alt="Back to Top"/>
+    <img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-4169E1?style=for-the-badge" alt="Back to Top"/>
   </a>
 </p>
