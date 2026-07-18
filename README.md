@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ABHINAV%20TIWARI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=220&section=header&text=ABHINAV%20TIWARI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -114,7 +114,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinaav2003&label=Profile%20views&color=0e75b6&style=flat" alt="abhinaav2003" /> </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer" width="100%"/>
 
 <p align="center">
   <a href="#top">
