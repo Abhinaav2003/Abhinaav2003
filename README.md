@@ -66,12 +66,12 @@
 
 # My Lifecycle
 
-```kotlin
+```Java
 fun main() {
     while (Alive) {
         code()
 		fixBugs()
-		loveKotlin()
+		loveJava()
         sleep()
         repeat()
     }
