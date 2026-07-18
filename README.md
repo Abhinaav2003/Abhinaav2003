@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=ABHINAV%20TIWARI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=220&section=header&text=ABHINAV%20TIWARI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -132,7 +132,7 @@ public class Life {
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinaav2003&label=Profile%20Views&color=000000&style=flat-square" alt="0xswezy" /> </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer" width="100%"/>
 
 <p align="center">
   <a href="#top">
