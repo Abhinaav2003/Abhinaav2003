@@ -82,6 +82,7 @@ public class Life {
 
 ```
 
+---
 
 # 🐍 Contribution Snake
 <!-- Snake Game Repo View -->
