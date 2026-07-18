@@ -82,8 +82,10 @@ public class Life {
 
 ```
 
-<!-- Snake Game Repo View -->
+
 # 🐍 Contribution Snake
+<!-- Snake Game Repo View -->
+
 <div align="center">
     
   ![snake gif](https://github.com/Abhinaav2003/Abhinaav2003/blob/output/github-snake.svg)
