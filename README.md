@@ -73,7 +73,6 @@ public class Life {
         while (true) {
             code();
             fixBugs();
-            loveJava();
             sleep();
             repeat();
         }
