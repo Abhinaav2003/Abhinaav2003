@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=220&section=header&text=ABHINAV%20TIWARI&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20%20%20&descAlignY=58&descSize=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=220&section=header&text=ABHINAV%20TIWARI&fontSize=73&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20%20%20&descAlignY=58&descSize=25" width="100%"/>
 
 <br/>
 
