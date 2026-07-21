@@ -59,7 +59,7 @@
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="Eclipse IDE" width="50" height="50" />
+  
 </p>
 
 ---
