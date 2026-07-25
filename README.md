@@ -121,9 +121,9 @@ public class Life {
 
 <div align="center">
 
-### 🐞💻 Every bug is an opportunity to become a better developer.
+## 🐞💻 Every bug is an opportunity to become a better developer.
 
-**Every error teaches a lesson. Every fix builds experience. Keep debugging, keep learning, and keep growing.**
+***Every error teaches a lesson. Every fix builds experience. Keep debugging, keep learning, and keep growing.**
 
 </div>
 
