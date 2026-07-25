@@ -40,15 +40,21 @@
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
 
-### Backend & Databases
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=maven" alt="Apache Maven" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="50" height="50" />
 </p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
+</p>
+
 
 ### Cloud, DevOps & Tooling
 
