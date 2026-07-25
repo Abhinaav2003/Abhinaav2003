@@ -117,8 +117,9 @@ public class Life {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinaav2003&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
-
 ---
+
+# 💡 Developer Quote
 
 <div align="center">
 
@@ -130,7 +131,11 @@ public class Life {
 
 ---
 
+# 👀 Profile Views
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinaav2003&style=for-the-badge" /> </p>
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2B547E&height=120&section=footer" width="100%"/>
 
