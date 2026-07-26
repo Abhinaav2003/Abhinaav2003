@@ -33,15 +33,6 @@
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" />
 </p>
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" />
-</p>
-
 ### Frontend
 
 <p>
