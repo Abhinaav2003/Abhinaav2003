@@ -83,6 +83,12 @@ public class Life {
 
 ---
 
+<a href="https://github.com/Abhinaav2003">
+<img align='middle' src="https://stats.pphat.top/stats?username=Abhinaav2003&size=medium&avatar_mode=radar&data_border_style=frame&data_border_frame=out&hide_title=false" style="width:100%"/>
+</a>
+
+---
+
 # 🐍 Contribution Snake
 <!-- Snake Game Repo View -->
 
