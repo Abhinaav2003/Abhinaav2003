@@ -11,8 +11,6 @@
 * 🚀 Passionate about Web Development and AI
 * 📚 Always learning new technologies
 * 🎯 Open to internships and collaborative projects
- 📚 Always learning new technologies
-* 🎯 Open to internships and collaborative projects
 
 <br>
 
