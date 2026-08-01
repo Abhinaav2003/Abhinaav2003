@@ -1,5 +1,5 @@
 <a id="top"></a>
-![MasterHead](https://i.redd.it/n8agw6z2smyb1.gif)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2B547E&height=220&section=header&text=ABHINAV%20TIWARI&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20%20%20&descAlignY=58&descSize=25" width="100%"/>
 
 <br/>
