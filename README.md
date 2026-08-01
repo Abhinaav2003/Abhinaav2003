@@ -131,7 +131,7 @@ public class Life {
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinaav2003&style=for-the-badge" /> </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2B547E&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=07409C&height=120&section=footer" width="100%"/>
 
 <p align="center">
   <a href="#top">
