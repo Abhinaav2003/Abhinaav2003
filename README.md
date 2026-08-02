@@ -5,7 +5,7 @@
 <br/>
 
 # 👋 About Me: 
-* 🎓 MCA Student
+* 🎓 MCA Student 
 * 💻 Aspiring Full Stack Java Developer
 * 🌱 Learning Java, Spring Boot, SQL & DSA 
 * 🚀 Passionate about Web Development and AI
