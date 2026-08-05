@@ -64,25 +64,6 @@
 
 ---
 
-# 🔄 My Lifecycle
-
-```java
-public class Life {
-    public static void main(String[] args) {
-
-        while (true) {
-            code();
-            fixBugs();
-            sleep();
-            repeat();
-        }
-    }
-}
-
-```
-
----
-
 # 🐍 Contribution Snake
 <!-- Snake Game Repo View -->
 
