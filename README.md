@@ -10,7 +10,7 @@
 * 🌱 Learning Java, Spring Boot, SQL & DSA
 * 🚀 Passionate about Web Development and AI
 * 📚 Always learning new technologies
-* 🎯 Open to internships and collaborative projects
+* 🎯 Open to internships and collaborative projects 
 
 <br>
 
