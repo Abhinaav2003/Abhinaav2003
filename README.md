@@ -90,6 +90,13 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=Abhinaav2003&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Abhinaav2003&theme=github-dark&mode=dark" />
+    <img src="https://www.gitskins.com/api/section/stack?username=Abhinaav2003&theme=github-dark" alt="Abhinaav2003 stack section" />
+  </picture>
+</p>
+
 ---
 
 # 📈 Coding Activity
