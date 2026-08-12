@@ -15,10 +15,10 @@
 
 # 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/abhinav-tiwari-b045b72b5/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="abhinavtiwari" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/abhinav-tiwari-b045b72b5/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="abhinavtiwari" height="45" width="45" /></a>
 <a href="https://stackoverflow.com/users/20592277" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="20592277" height="50" width="50" /></a>
 <a href="mailto:abhinavtiwari.tech@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="20592277" height="50" width="50" /></a>
-<a href="https://x.com/ABHINAVTIW84093" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="20592277" height="50" width="50" /></a> 
+<a href="https://x.com/ABHINAVTIW84093" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="20592277" height="50" width="50" /></a>
 
 ---
 
