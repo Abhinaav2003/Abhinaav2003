@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2C405C&height=220&section=header&text=ABHINAV%20TIWARI&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20%20%20&descAlignY=58&descSize=25" width="100%"/>
 
 # 👋 About Me: 
-* 🎓 MCA Student
+* 🎓 MCA Student  
 * 💻 Aspiring Full Stack Java Developer
 * 🌱 Learning Java, Spring Boot, SQL & DSA
 * 🚀 Passionate about Web Development and AI
