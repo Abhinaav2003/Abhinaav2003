@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2C405C&height=220&section=header&text=ABHINAV%20TIWARI&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20%20%20&descAlignY=58&descSize=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=03396C&height=220&section=header&text=ABHINAV%20TIWARI&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20%20%20&descAlignY=58&descSize=25" width="100%"/>
 
 # 👋 About Me: 
 * 🎓 MCA Student  
@@ -118,7 +118,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinaav2003&style=for-the-badge" /> </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2C405C&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=03396C&height=120&section=footer" width="100%"/>
 
 <p align="center">
   <a href="#top">
