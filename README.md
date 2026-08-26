@@ -81,38 +81,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abhinaav2003/Abhinaav2003/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
----
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=Abhinaav2003&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Abhinaav2003&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Abhinaav2003&theme=github-dark&mode=dark" />
-    <img src="https://www.gitskins.com/api/section/stack?username=Abhinaav2003&theme=github-dark" alt="Abhinaav2003 stack section" />
-  </picture>
-</p>
-
----
-
-# 📈 Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinaav2003&theme=react&hide_border=true&area=true"/>
-</p>
-
----
-
-<div align="center">
-
-## 🐞💻 Every bug is an opportunity to become a better developer.
-
-**Every error teaches a lesson. Every fix builds experience. Keep debugging, keep learning, and keep growing.**
-
-</div>
 
 ---
 
