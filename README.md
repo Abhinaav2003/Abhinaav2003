@@ -126,7 +126,7 @@ A responsive developer portfolio showcasing my **skills, projects, education, ce
 <td width="30%" align="center" valign="middle">
 
 <a href="YOUR_PORTFOLIO_REPO_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Project-03396C?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio"/>
+  <img src="https://abhinav-tiwari-portfolio.vercel.app/" alt="View Portfolio"/>
 </a>
 
 </td>
