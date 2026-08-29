@@ -15,10 +15,10 @@
 
 # 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/abhinav-tiwari-b045b72b5/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="abhinavtiwari" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/20592277" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="20592277" height="50" width="50" /></a>
-<a href="mailto:abhinavtiwari.tech@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="20592277" height="50" width="50" /></a>
-<a href="https://x.com/ABHINAVTIW84093" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="20592277" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/abhinav-tiwari-b045b72b5/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="abhinavtiwari" height="45" width="45" /></a>
+<a href="https://stackoverflow.com/users/20592277" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="20592277" height="45" width="45" /></a>
+<a href="mailto:abhinavtiwari.tech@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="20592277" height="45" width="45" /></a>
+<a href="https://x.com/ABHINAVTIW84093" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="20592277" height="45" width="45" /></a>
 
 ---
 
@@ -26,38 +26,38 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45" />
 
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=maven" alt="Apache Maven" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=maven" alt="Apache Maven" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="45" height="45" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="45" height="45" />
   
 </p>
 
