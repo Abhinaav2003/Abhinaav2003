@@ -74,8 +74,6 @@
 
 ---
 
----
-
 # 📄 Resume
 
 <p align="center">
