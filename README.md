@@ -63,17 +63,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-<!-- Snake Game Repo View -->
-
-<div align="center">
-    
-  ![snake gif](https://github.com/Abhinaav2003/Abhinaav2003/blob/output/github-snake.svg)
-</div>
-
----
-
-
 <!-- Paceman Game Repo View -->
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinaav2003/Abhinaav2003/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
