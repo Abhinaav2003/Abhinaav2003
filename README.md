@@ -63,6 +63,73 @@
 
 ---
 
+# 🚀 Featured Projects
+
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Quiz Management System
+
+**Java | Spring Boot | PostgreSQL | HTML | CSS | JavaScript**
+
+A full-stack quiz platform with separate **Admin & Student modules**.
+
+* 🔐 Authentication
+* 📝 Question Management
+* ⏱️ Quiz Timer
+* 📊 Result Management
+* 🔄 REST APIs
+* 🗄️ PostgreSQL Database
+
+<p align="center">
+<a href="YOUR_QUIZ_REPO_LINK">
+<img src="https://img.shields.io/badge/View%20Repository-03396C?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio Website
+
+**HTML | CSS | JavaScript**
+
+A responsive portfolio website showcasing my skills, projects, education, certifications and resume.
+
+* 📱 Responsive Design
+* ✨ Animations
+* 💻 Projects Showcase
+* 📜 Certifications
+* 📄 Resume
+* 📬 Contact Section
+
+<p align="center">
+<a href="YOUR_PORTFOLIO_REPO_LINK">
+<img src="https://img.shields.io/badge/View%20Repository-03396C?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+
+<p align="center">
+<a href="https://github.com/Abhinaav2003?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-03396C?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+
+---
+
 <!-- Paceman Game Repo View -->
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinaav2003/Abhinaav2003/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
