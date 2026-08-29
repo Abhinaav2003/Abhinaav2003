@@ -1,147 +1,169 @@
 <a id="top"></a>
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=03396C&height=220&section=header&text=ABHINAV%20TIWARI&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20%20%20&descAlignY=58&descSize=25" width="100%"/>
 
-# 👋 About Me: 
-* 🎓 MCA Student  
+# 👋 About Me
+
+* 🎓 MCA Student
 * 💻 Aspiring Full Stack Java Developer
 * 🌱 Learning Java, Spring Boot, SQL & DSA
 * 🚀 Passionate about Web Development and AI
 * 📚 Always learning new technologies
-* 🎯 Open to internships and collaborative projects   
+* 🎯 Open to internships and collaborative projects
 
 <br>
 
-# 🌐 Socials:
+# 🌐 Socials
+
 <p align="left">
-<a href="https://www.linkedin.com/in/abhinav-tiwari-b045b72b5/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="abhinavtiwari" height="45" width="45" /></a>
-<a href="https://stackoverflow.com/users/20592277" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="20592277" height="45" width="45" /></a>
-<a href="mailto:abhinavtiwari.tech@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="20592277" height="45" width="45" /></a>
-<a href="https://x.com/ABHINAVTIW84093" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="20592277" height="45" width="45" /></a>
+  <a href="https://www.linkedin.com/in/abhinav-tiwari-b045b72b5/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/>
+  </a>
+  <a href="https://stackoverflow.com/users/20592277" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="45" height="45"/>
+  </a>
+  <a href="mailto:abhinavtiwari.tech@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45" height="45"/>
+  </a>
+  <a href="https://x.com/ABHINAVTIW84093" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" width="45" height="45"/>
+  </a>
+</p>
 
 ---
 
-# 🛠️ Tech Stack:
+# 🛠️ Tech Stack
+
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45"/>
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/>
+</p>
 
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=maven" alt="Apache Maven" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="45" height="45"/>
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="45" height="45" />
-  
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="45" height="45"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
+<table width="100%">
 
-<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 ### 🎯 Quiz Management System
 
-**Java | Spring Boot | PostgreSQL | HTML | CSS | JavaScript**
+**Java • Spring Boot • PostgreSQL • HTML • CSS • JavaScript**
 
-A full-stack quiz platform with separate **Admin & Student modules**.
+A full-stack quiz management platform with separate **Admin and Student modules**.
 
-* 🔐 Authentication
-* 📝 Question Management
-* ⏱️ Quiz Timer
+* 🔐 Admin & Student Authentication
+* 📝 Add, Update & Delete Questions
+* ⏱️ Online Quiz Timer
 * 📊 Result Management
-* 🔄 REST APIs
+* 🌐 REST APIs
 * 🗄️ PostgreSQL Database
-
-<p align="center">
-<a href="YOUR_QUIZ_REPO_LINK">
-<img src="https://img.shields.io/badge/View%20Repository-03396C?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="30%" align="center" valign="middle">
+
+<a href="YOUR_QUIZ_REPO_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-03396C?style=for-the-badge&logo=github&logoColor=white" alt="View Quiz Management System"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="70%" valign="top">
 
 ### 🌐 Personal Portfolio Website
 
-**HTML | CSS | JavaScript**
+**HTML • CSS • JavaScript**
 
-A responsive portfolio website showcasing my skills, projects, education, certifications and resume.
+A responsive developer portfolio showcasing my **skills, projects, education, certifications and resume**.
 
 * 📱 Responsive Design
-* ✨ Animations
+* ✨ Modern UI & Animations
 * 💻 Projects Showcase
 * 📜 Certifications
 * 📄 Resume
 * 📬 Contact Section
 
-<p align="center">
-<a href="YOUR_PORTFOLIO_REPO_LINK">
-<img src="https://img.shields.io/badge/View%20Repository-03396C?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-
 </td>
 
-<td width="50%" valign="top">
+<td width="30%" align="center" valign="middle">
 
-
-<p align="center">
-<a href="https://github.com/Abhinaav2003?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-03396C?style=for-the-badge&logo=github&logoColor=white">
+<a href="YOUR_PORTFOLIO_REPO_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-03396C?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio"/>
 </a>
-</p>
 
 </td>
 </tr>
+
+<tr>
+<td width="70%" valign="top">
+
+
+</td>
+</tr>
+
 </table>
 
 
+
 ---
 
-<!-- Paceman Game Repo View -->
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinaav2003/Abhinaav2003/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinaav2003/Abhinaav2003/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abhinaav2003/Abhinaav2003/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<!-- Pacman Contribution Graph -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Abhinaav2003/Abhinaav2003/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Abhinaav2003/Abhinaav2003/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img
+    alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/Abhinaav2003/Abhinaav2003/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-
-
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinaav2003&style=for-the-badge" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Abhinaav2003&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=03396C&height=120&section=footer" width="100%"/>
 
