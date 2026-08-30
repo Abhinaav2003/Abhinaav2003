@@ -209,7 +209,7 @@ Certification focused on Oracle AI Database fundamentals, AI capabilities, vecto
 
 <td width="30%" align="center" valign="middle">
 
-<a href="YOUR_ORACLE_CERTIFICATE_LINK" target="_blank">
+<a href="https://github.com/Abhinaav2003/Abhinaav2003/blob/main/assets/certificates/ORACLE%20AI%20DATABASE.jpg" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-03396C?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certificate"/>
 </a>
 
@@ -229,7 +229,7 @@ Certification covering Agentic AI concepts, AI agents, Oracle Cloud Infrastructu
 
 <td width="30%" align="center" valign="middle">
 
-<a href="YOUR_AGENTIC_AI_CERTIFICATE_LINK" target="_blank">
+<a href="https://github.com/Abhinaav2003/Abhinaav2003/blob/main/assets/certificates/ORACLEAI.jpg" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-03396C?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Agentic AI Certificate"/>
 </a>
 
@@ -249,7 +249,7 @@ Certification covering Java programming fundamentals, Object-Oriented Programmin
 
 <td width="30%" align="center" valign="middle">
 
-<a href="YOUR_JAVA_CERTIFICATE_LINK" target="_blank">
+<a href="https://github.com/Abhinaav2003/Abhinaav2003/blob/main/assets/certificates/JAVA%20BY%20ABDUL%20BARI.jpg" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-03396C?style=for-the-badge&logo=udemy&logoColor=white" alt="Java Certificate"/>
 </a>
 
@@ -269,7 +269,7 @@ Certification covering frontend and backend web development, including HTML, CSS
 
 <td width="30%" align="center" valign="middle">
 
-<a href="YOUR_WEB_DEVELOPMENT_CERTIFICATE_LINK" target="_blank">
+<a href="https://github.com/Abhinaav2003/Abhinaav2003/blob/main/assets/certificates/FULL%20STACK%20UDEMY.jpg" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-03396C?style=for-the-badge&logo=udemy&logoColor=white" alt="Full Stack Web Development Certificate"/>
 </a>
 
