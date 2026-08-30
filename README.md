@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=03396C&height=220&section=header&text=ABHINAV%20TIWARI&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20%20%20&descAlignY=58&descSize=25" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=38&duration=3000&pause=1000&color=03396C&center=true&vCenter=true&width=1000&lines=Aspiring+Full+Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+SQL+%7C+DSA;Building+Projects+%7C+Learning+%7C+Growing" alt="Typing SVG"/>
-</p>
 
 # 👋 About Me
 
