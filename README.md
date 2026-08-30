@@ -124,7 +124,6 @@ I'm currently focused on strengthening my **Java backend development** skills an
 
 ---
 
-
 # 🚀 Featured Projects
 
 <table width="100%">
@@ -191,6 +190,103 @@ A responsive developer portfolio showcasing my **skills, projects, education, ce
 
 </table>
 
+---
+
+# 📜 Certifications
+
+<table width="100%">
+
+<tr>
+<td width="70%" valign="top">
+
+### ☁️ Oracle AI Database Certified Foundations Associate
+
+**Oracle**
+
+Certification focused on Oracle AI Database fundamentals, AI capabilities, vector search, and modern database technologies.
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<a href="YOUR_ORACLE_CERTIFICATE_LINK" target="_blank">
+<img src="https://img.shields.io/badge/View%20Certificate-03396C?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certificate"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="70%" valign="top">
+
+### 🤖 Oracle Agentic AI Foundations
+
+**Oracle**
+
+Certification covering Agentic AI concepts, AI agents, Oracle Cloud Infrastructure AI services, and enterprise AI technologies.
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<a href="YOUR_AGENTIC_AI_CERTIFICATE_LINK" target="_blank">
+<img src="https://img.shields.io/badge/View%20Certificate-03396C?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Agentic AI Certificate"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="70%" valign="top">
+
+### ☕ Java Programming Certification
+
+**Udemy — Abdul Bari**
+
+Certification covering Java programming fundamentals, Object-Oriented Programming, and core Java concepts.
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<a href="YOUR_JAVA_CERTIFICATE_LINK" target="_blank">
+<img src="https://img.shields.io/badge/View%20Certificate-03396C?style=for-the-badge&logo=udemy&logoColor=white" alt="Java Certificate"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="70%" valign="top">
+
+### 🌐 Full Stack Web Development
+
+**Udemy — Dr. Angela Yu**
+
+Certification covering frontend and backend web development, including HTML, CSS, JavaScript, databases, and full-stack development.
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<a href="YOUR_WEB_DEVELOPMENT_CERTIFICATE_LINK" target="_blank">
+<img src="https://img.shields.io/badge/View%20Certificate-03396C?style=for-the-badge&logo=udemy&logoColor=white" alt="Full Stack Web Development Certificate"/>
+</a>
+
+</td>
+</tr>
+
+</table>
+
+<br>
+
+<p align="center">
+  <a href="YOUR_CERTIFICATES_FOLDER_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/📜%20View%20All%20Certificates-03396C?style=for-the-badge&logo=github&logoColor=white" alt="View All Certificates"/>
+  </a>
+</p>
+
+---
 
 
 ---
