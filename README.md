@@ -140,6 +140,7 @@ A responsive developer portfolio showcasing my **skills, projects, education, ce
 * 📱 Responsive Design
 * ✨ Modern UI & Animations
 * 💻 Projects Showcase
+* 🎓 Education timeline
 * 📜 Certifications
 * 📄 Resume
 * 📬 Contact Section
