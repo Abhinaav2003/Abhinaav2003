@@ -74,6 +74,34 @@
 
 ---
 
+# 🎯 Current Focus
+
+I'm currently focused on strengthening my **Java backend development** skills and building practical, scalable applications.
+
+### 🚀 What I'm Working On
+
+* ☕ Improving **Core Java & OOPs**
+* 🌱 Building applications with **Spring Boot**
+* 🔗 Developing **RESTful APIs**
+* 🗄️ Working with **PostgreSQL & MySQL**
+* 🧩 Practicing **Data Structures & Algorithms**
+* 🐳 Learning **Docker & deployment**
+* 🤖 Exploring **Artificial Intelligence & AI applications**
+* 💻 Building and improving **full-stack projects**
+* 🔧 Improving **Git & GitHub workflows**
+
+### 🎯 2026 Goals
+
+* Build production-ready **Java & Spring Boot applications**
+* Strengthen **DSA & problem-solving skills**
+* Contribute to **open-source projects**
+* Develop real-world **Full Stack projects**
+* Explore **AI integration with Java applications**
+* Prepare for **Java Developer / Full Stack Developer opportunities**
+
+
+---
+
 # 📄 Resume
 
 <p align="center">
