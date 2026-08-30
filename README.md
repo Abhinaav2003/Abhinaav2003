@@ -2,14 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=03396C&height=220&section=header&text=ABHINAV%20TIWARI&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20%20%20&descAlignY=58&descSize=25" width="100%"/>
 
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=03396C&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+SQL+%7C+DSA;Building+Projects+%7C+Learning+%7C+Growing" alt="Typing SVG"/> </p>
+
 # 👋 About Me
 
-* 🎓 MCA Student
-* 💻 Aspiring Full Stack Java Developer
-* 🌱 Learning Java, Spring Boot, SQL & DSA
-* 🚀 Passionate about Web Development and AI
-* 📚 Always learning new technologies
-* 🎯 Open to internships and collaborative projects
+* 🎓 Pursuing MCA at AKTU
+* 💻 Focused on Java & Spring Boot
+* 🌱 Currently strengthening DSA, SQL & Backend Development
+* 🌐 Interested in Full Stack Web Development
+* 🤖 Exploring Artificial Intelligence & modern AI technologies
+* 🗄️ Working with MySQL & PostgreSQL
+* 🛠️ Using Git, GitHub, Maven, Docker & Postman
+* 🚀 Building real-world projects to improve my development skills
+* 🤝 Open to internships, collaborations & open-source opportunities
+* 📚 Always learning and exploring new technologies
 
 <br>
 
