@@ -154,7 +154,7 @@ A full-stack quiz management platform with separate **Admin and Student modules*
 
 <td width="30%" align="center" valign="middle">
 
-<a href="YOUR_QUIZ_REPO_LINK" target="_blank">
+<a href="https://github.com/Abhinaav2003/online-exam-system-master" target="_blank">
   <img src="https://img.shields.io/badge/View%20Project-03396C?style=for-the-badge&logo=github&logoColor=white" alt="View Quiz Management System"/>
 </a>
 
