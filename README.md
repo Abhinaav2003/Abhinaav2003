@@ -80,28 +80,6 @@
 
 ---
 
-# 📄 Resume
-
-<p align="center">
-  <a href="./assets/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20View%20Resume-03396C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume"/>
-  </a>
-
-  <a href="./assets/resume.pdf" download>
-    <img src="https://img.shields.io/badge/⬇%20Download%20Resume-4169E1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>Java Developer | Spring Boot | Full Stack Development</b>
-</p>
-
-<p align="center">
-  <i>My resume includes my education, technical skills, projects, certifications and professional profile.</i>
-</p>
-
----
-
 <!-- Pacman Contribution Graph -->
 
 <picture>
