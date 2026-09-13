@@ -1,7 +1,6 @@
 <a id="top"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=03396C&height=220&section=header&text=ABHINAV%20TIWARI&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20%20%20&descAlignY=58&descSize=25" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=200&section=header&text=Abhinav%20Tiwari&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Java%20Developer&descAlignY=58&descSize=20&descColor=58A6FF" width="100%"/>
 
 
 # 👋 About Me
@@ -100,7 +99,7 @@
   <img src="https://komarev.com/ghpvc/?username=Abhinaav2003&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=03396C&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <a href="#top">
