@@ -45,7 +45,6 @@
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45"/>
 </p>
 
 ### Frontend
