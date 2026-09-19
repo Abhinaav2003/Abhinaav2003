@@ -3,18 +3,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=200&section=header&text=Abhinav%20Tiwari&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Java%20Developer&descAlignY=58&descSize=20&descColor=58A6FF" width="100%"/>
 
 
-## 👨‍💻 About Me
+# 👋 About Me
 
-```java
-const abhinaav = {
-  username: "Abhinaav2003",
-  role: "Developer / Student",
-  currentlyWorkingOn: "Your current project",
-  currentlyLearning: ["Technology 1", "Technology 2"],
-  askMeAbout: ["Web Dev", "Problem Solving", "Open Source"],
-  funFact: "I turn coffee into code ☕",
-};
-```
+* 🎓 Pursuing MCA at AKTU
+* 💻 Focused on Java & Spring Boot
+* 🌱 Currently strengthening DSA, SQL & Backend Development
+* 🌐 Interested in Full Stack Web Development
+* 🤖 Exploring Artificial Intelligence & modern AI technologies
+* 🗄️ Working with MySQL & PostgreSQL
+* 🛠️ Using Git, GitHub, Maven, Docker & Postman
+* 🚀 Building real-world projects to improve my development skills
+* 🤝 Open to internships, collaborations & open-source opportunities
+* 📚 Always learning and exploring new technologies
 
 <br/>
 
