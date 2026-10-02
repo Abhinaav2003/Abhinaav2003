@@ -73,6 +73,16 @@ contribute("Open Source");
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E76F00,100:5382A1&height=3" width="100%"/>
 
+
+## 🧭 Learning Pipeline
+ 
+☕ Java → 🌱 Spring Boot → 🗄️ SQL → 🐳 Docker → 🧩 Microservices → 🤖 Generative AI
+ 
+**Next up:** `Spring Security` · `System Design` · `Cloud`
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E76F00,100:5382A1&height=3" width="100%"/>
+
+
 ## 🛡️ Mindset
 
 ```java
