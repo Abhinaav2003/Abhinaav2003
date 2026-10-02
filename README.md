@@ -138,10 +138,6 @@ contact("Let's build together!");
 
 <br/><br/>
 
-<a href="mailto:abhinavtiwari.tech@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%20Send%20me%20a%20message-E76F00?style=for-the-badge&labelColor=5382A1" alt="Send message"/></a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=Abhinaav2003&style=flat-square&color=E76F00&labelColor=161B22&label=RUNS" alt="Profile Views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E76F00,100:5382A1&height=100&section=footer" width="100%"/>
