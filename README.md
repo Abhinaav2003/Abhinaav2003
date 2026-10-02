@@ -97,14 +97,6 @@ try {
 <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaav2003&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E76F00&text_color=C9D1D9" alt="Languages"/>
 <img width="480" src="https://streak-stats.demolab.com?user=Abhinaav2003&theme=dark&hide_border=true&background=0D1117&ring=E76F00&fire=E76F00&currStreakLabel=E76F00&sideLabels=5382A1&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Streak"/>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Abhinaav2003/Abhinaav2003/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinaav2003/Abhinaav2003/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="Pacman Contribution Graph" width="100%" src="https://raw.githubusercontent.com/Abhinaav2003/Abhinaav2003/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E76F00,100:5382A1&height=3" width="100%"/>
