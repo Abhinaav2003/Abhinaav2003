@@ -99,7 +99,7 @@ List<Certification> certs = 10;
 | Certification | Issuer · Date |
 |:--|:--|
 | [Introduction to Data Engineering and Bigdata](https://www.guvi.in/share-certificate/1883B90CHK7l921319) | HCL GUVI · Sep 2026 |
-| Data Processing and Visualisation | nasscom · Sep 2026 |
+| Data Processing and Visualisation | Nasscom · Sep 2026 |
 | [Bharat AI Initiative](https://www.guvi.in/share-certificate/f01X2t9Hj79J877p9M) | HCL GUVI · Sep 2026 |
 | Generative AI Essentials | TCS iON · Sep 2026 |
 | [Web Development Fundamentals](https://www.credly.com/badges/0168e61f-58a4-42e1-9e7d-5c8684dc4c18) | IBM · Sep 2026 |
