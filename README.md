@@ -89,6 +89,28 @@ try {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E76F00,100:5382A1&height=3" width="100%"/>
 
+## 🏅 Certifications
+
+```java
+List<Certification> certs = 10;
+// tap a name to verify ✅
+```
+
+| Certification | Issuer · Date |
+|:--|:--|
+| [Introduction to Data Engineering and Bigdata](https://www.guvi.in/share-certificate/1883B90CHK7l921319) | HCL GUVI · Sep 2026 |
+| Data Processing and Visualisation | nasscom · Sep 2026 |
+| [Bharat AI Initiative](https://www.guvi.in/share-certificate/f01X2t9Hj79J877p9M) | HCL GUVI · Sep 2026 |
+| Generative AI Essentials | TCS iON · Sep 2026 |
+| [Web Development Fundamentals](https://www.credly.com/badges/0168e61f-58a4-42e1-9e7d-5c8684dc4c18) | IBM · Sep 2026 |
+| [IBM Getting Started with Generative AI](https://www.credly.com/go/8L4Y8Dpk) | IBM · Aug 2026 |
+| Oracle AI Database Certified Foundations Associate | Oracle · Aug 2026 |
+| [The Complete Full-Stack Web Development Bootcamp](https://ude.my/UC-1ad5e5f0-9dd6-4bf7-af30-b8f5e50b3cea) | Udemy · Aug 2026 |
+| Agentic AI Certified Foundations Associate | Oracle · Aug 2026 |
+| Learn JAVA Programming - Beginner to Master | Udemy · Feb 2024 |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E76F00,100:5382A1&height=3" width="100%"/>
+
 ## 📊 Metrics
 
 <div align="center">
