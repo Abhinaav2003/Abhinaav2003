@@ -3,18 +3,24 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=200&section=header&text=Abhinav%20Tiwari&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Java%20Developer&descAlignY=58&descSize=20&descColor=58A6FF" width="100%"/>
 
 
-# 👋 About Me
+```text
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | | | | (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
 
-* 🎓 Pursuing MCA at AKTU
-* 💻 Focused on Java & Spring Boot
-* 🌱 Currently strengthening DSA, SQL & Backend Development
-* 🌐 Interested in Full Stack Web Development
-* 🤖 Exploring Artificial Intelligence & modern AI technologies
-* 🗄️ Working with MySQL & PostgreSQL
-* 🛠️ Using Git, GitHub, Maven, Docker & Postman
-* 🚀 Building real-world projects to improve my development skills
-* 🤝 Open to internships, collaborations & open-source opportunities
-* 📚 Always learning and exploring new technologies
+ :: Abhinav Tiwari ::              (v MCA · AKTU)
+
+INFO  --- [main] Profile        : Aspiring Full Stack Java Developer
+INFO  --- [main] Focus          : Java · Spring Boot · DSA · SQL
+INFO  --- [main] Database       : MySQL · PostgreSQL
+INFO  --- [main] Learning       : Microservices · Docker · AI
+INFO  --- [main] Status         : OPEN TO internships, collabs & open source
+INFO  --- [main] Started AbhinavApplication in 21.0 seconds ✓
+```
+
 
 <br/>
 
