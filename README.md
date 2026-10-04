@@ -131,7 +131,7 @@ List<Certification> certs = 11;
 | Oracle AI Database Certified Foundations Associate | Oracle · Aug 2026 |
 | [The Complete Full-Stack Web Development Bootcamp](https://ude.my/UC-1ad5e5f0-9dd6-4bf7-af30-b8f5e50b3cea) | Udemy · Aug 2026 |
 | Agentic AI Certified Foundations Associate | Oracle · Aug 2026 |
-| Learn JAVA Programming - Beginner to Master | Udemy · Feb 2024 |
+| [Learn JAVA Programming - Beginner to Master](https://www.udemy.com/certificate/UC-ca00cc22-f76b-45e7-850d-743df3b30947/) | Udemy · Feb 2024 |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E76F00,100:5382A1&height=3" width="100%"/>
 
