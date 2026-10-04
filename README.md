@@ -121,6 +121,7 @@ List<Certification> certs = 10;
 
 | Certification | Issuer · Date |
 |:--|:--|
+| [Java Spring Framework,Spring Boot, Spring AI - GenAI](ude.my/UC-4ca72db7-7443-4873-8f8c-7064a7e9a295) | Udemy · Oct 2026 |
 | [Introduction to Data Engineering and Bigdata](https://www.guvi.in/share-certificate/1883B90CHK7l921319) | HCL GUVI · Sep 2026 |
 | Data Processing and Visualisation | Nasscom · Sep 2026 |
 | [Bharat AI Initiative](https://www.guvi.in/share-certificate/f01X2t9Hj79J877p9M) | HCL GUVI · Sep 2026 |
