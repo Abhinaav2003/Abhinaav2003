@@ -36,7 +36,7 @@ class Abhinav {
 
 ```java
 interface Skills {
-  languages = Java, Python, C
+  languages = Java, C
   backend   = Spring Boot,
               Hibernate, Maven
   database  = MySQL, PostgreSQL
