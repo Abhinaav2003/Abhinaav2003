@@ -164,7 +164,7 @@ contact("Let's build together!");
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!+😊;Connect+me+on+LinkedIn!;I%27m+always+ready+to+collab+:)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting....;Connect+me+on+LinkedIn...." alt="Typing SVG" />
 </p>
 
 <p align="right">
