@@ -162,7 +162,6 @@ contact("Let's build together!");
 <a href="https://stackoverflow.com/users/20592277"><img src="https://skillicons.dev/icons?i=stackoverflow" width="52" alt="Stack Overflow"/></a>&nbsp;&nbsp;
 <a href="https://x.com/ABHINAVTIW84093"><img src="https://skillicons.dev/icons?i=twitter" width="52" alt="X"/></a>
 
-<br/><br/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!+😊;Connect+me+on+LinkedIn!;I%27m+always+ready+to+collab+:)" alt="Typing SVG" />
