@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5382A1,100:E76F00&height=260&section=header&text=Abhinav%20Tiwari&fontSize=80&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Full%20Stack%20Java%20Developer&descAlignY=62&descSize=40&descColor=FFFFFF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=E76F00&center=true&vCenter=true&width=420&height=40&lines=public+static+void+main()%3B;Hello%2C+World!+%E2%98%95;learn()%3B+build()%3B+ship()%3B;Open+to+internships" alt="Typing"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Aspiring+Java+Developer+%E2%98%95;Java+Developer+in+Progress+%F0%9F%9A%80!;Java+%7C+Spring+Boot+%7C+SQL;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
+</p>
 
 <br/>
 
