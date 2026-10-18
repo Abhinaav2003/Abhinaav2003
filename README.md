@@ -167,10 +167,6 @@ contact("Let's build together!");
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting....;Connect+me+on+LinkedIn...." alt="Typing SVG" />
 </p>
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=Abhinaav2003&style=flat-square&color=E76F00&labelColor=161B22&label=RUNS" alt="Profile Views"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E76F00,100:5382A1&height=100&section=footer" width="100%"/>
 
 </div>
