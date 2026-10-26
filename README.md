@@ -10,8 +10,4 @@
 
 <img src="./stats.svg" width="560" alt="Abhinaav's GitHub stats" />
 
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Abhinaav2003-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhinaav2003)
-
 </div>
